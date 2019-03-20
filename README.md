@@ -1,0 +1,2 @@
+# Office-365-Detailed-License-Report
+This script was created for organizations that have multiple license packs (SKU with services disabled or enabled). It is a tedious task for an administrator to pull a report of or find out who has what license. If you assign licenses via Group-Based licenses, then it might be difficult to find out which group is responsible for assigning the custom license pack. 
