@@ -20,5 +20,5 @@ b.	Select Users: Use this option if you want to run a report for a select set of
 
 
 About the Script. (how does it work): 
-To get a breakdown of the script and find out how the script works feel free to visit my blog www.O365inside.com  
+To get a breakdown of the script and find out how the script works feel free to visit my blog Post: https://o365inside.com/powershell/how-to-get-detailed-license-reports-for-office-365-users/
 
