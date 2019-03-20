@@ -17,6 +17,8 @@ Script Execution:
 
 a.	All Users: Use this option if you want to get a detailed report for all users in your organization. The script would prompt you for a location to export the file.  
 b.	Select Users: Use this option if you want to run a report for a select set of users. To use this option, you would need a .csv file with a list of users. The column name would need to be UserPrincipalName. You would be prompted for the Input file location and the export location for the file. A sample input file is attached (file name: userlist)
+
+
 About the Script. (how does it work): 
 To get a breakdown of the script and find out how the script works visit the wiki section or feel free to visit my blog www.O365niside.com  
 
