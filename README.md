@@ -1,9 +1,9 @@
 # Office-365-Detailed-License-Report
 
-If you are reading this post, you were probably searching the web on how to get a detailed license report for your users in Office 365. Well you have come to the right place!
+How to get a detailed license report for your users in Office 365. 
 Although you can get a license report from the Office 365 Admin Center; this report will give you the license packs assigned to each user, and not a list of services that are enabled or disabled within each license pack. [https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users]
  
-Luckily, we have PowerShell to get his report. I have created a script that can get a detailed report for a list of users (.csv file required) and for all users who have licenses assigned to them. 
+You can get a detailed report for a list of users (.csv file required) and for all users who have licenses assigned to them by executing this PowerShell Script. 
 
 About the Script and Output Sample: 
 This script was created for organizations that have multiple license packs (SKU with services disabled or enabled). It is a tedious task for an administrator to pull a report of or find out who has what license. If you assign licenses via Group-Based licenses, then it might be difficult to find out which group is responsible for assigning the custom license pack. 
